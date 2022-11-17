@@ -27,7 +27,7 @@ for i in range(lessonCount):
         kalinan_sinav.append(ortalama)
         y=y+1
 
-print(f"{gecilen_sinav} adet sınavdan geçtiniz. {kalinan_sinav} adet dersten kaldınız")       
+print(f"{gecilen_sinav} adet sınavdan geçtiniz. {kalinan_sinav} adet sınavdan kaldınız")       
 print(f"Geçilen sinavlar:{gecilen_sinav}") 
 print(f"Kalınan sinavlar:{kalinan_sinav}")  
   
