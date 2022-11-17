@@ -50,3 +50,6 @@ company = "Etiya"
 #! Merve 23 yaşında Etiya'da çalışıyor
 print(name + " " + age + " yaşında "  + company + "'de çalışıyor.")
 print(f"{name} {age} yaşında {company}'de çalışıyor.")
+
+
+
